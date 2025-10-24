@@ -1,4 +1,4 @@
-# ASM-DRL: Adaptive Service Migration with Deep Reinforcement Learning
+# ASM-DRL: Adaptive Service Migration with Deep Reinforcement Learning, which has been submitted to Electronics Journal
 
 This repository contains the implementation of ASM-DRL, a deep reinforcement learning–based adaptive service migration framework for Satellite Edge Computing (SEC).  
 The method is built upon the Soft Actor–Critic algorithm, with key improvements including:
